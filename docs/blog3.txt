@@ -1,0 +1,85 @@
+Job Title: QA Tester
+
+Location: Oﬃce-based, full time, Bloemfontein
+
+Working Hours: 40 hours per week according to company flexi-time policy
+
+Educational Requirements: Degree in Computer Science or Diploma in Software Development
+
+Experience: Minimum 1 Year of Commercial Experience in either QA or Software Development
+
+Join Bitcube: Pioneering Quality in the Digital World
+
+Bitcube is seeking a detail-oriented and innovative QA Tester to bolster the quality of our software solutions. This role is ideal for individuals with a passion for ensuring software reliability and a keen interest in test automation and frameworks.
+
+Role Overview:
+
+Project Involvement
+
+Help run simple manual tests on project features, with supervision.
+Record any issues you notice, like taking screenshots or making notes.
+Try out new features to spot any obvious bugs with help from the team.
+
+
+Team Collaboration
+
+Watch and learn from Level 1 testers to understand project testing needs.
+Attend team discussions to learn how testing fits into the bigger picture.
+Learn how to share feedback on what you find during testing, with guidance.
+
+
+Automation
+
+Watch how basic automation scripts work to understand how they support testing.
+Try running very simple automated scripts with supervision to get familiar with automation tools.
+Observe level 1s and ask questions to understand the basics of test automation.
+
+
+Bitcube
+
+Join QA learning sessions to pick up key concepts and testing methods.
+Watch team members as they plan and run tests to see how testing helps the overall project.
+
+
+What We Offer:
+
+A dynamic role that is integral to the success of our software solutions.
+Flexitime to promote a healthy work-life balance.
+A collaborative environment that encourages learning and innovation in quality assurance practices.
+
+
+Key Requirements:
+
+Some familiarity with coding basics (JavaScript or similar) is helpful.
+A general idea of what HTML, CSS, and JavaScript are.
+Willingness to learn about testing processes and tools.
+
+
+As a Quality Assurance Tester at Bitcube, you will play a critical role in ensuring the high quality of our software products. We value your expertise in test automation and your commitment to excellence. Join us in our journey towards setting new standards in software quality and reliability.
+
+Send your cover letter and CV to careers@bitcube.tech
+
+Job Title: QA Tester
+
+Location: Oﬃce-based, full time, Bloemfontein
+
+Working Hours: 40 hours per week according to company flexi-time policy
+
+Educational Requirements: Degree in Computer Science or Diploma in Software Development
+
+Experience: Minimum 1 Year of Commercial Experience in either QA or Software Development
+
+Join Bitcube: Pioneering Quality in the Digital World
+
+Bitcube is seeking a detail-oriented and innovative QA Tester to bolster the quality of our software solutions. This role is ideal for individuals with a passion for ensuring software reliability and a keen interest in test automation and frameworks.
+
+Role Overview:
+
+Project Involvement
+
+Help run simple manual tests on project features, with supervision.
+Record any issues you notice, like taking screenshots or making notes.
+Try out new features to spot any obvious bugs with help from the team.
+
+
+Team Collaboration
